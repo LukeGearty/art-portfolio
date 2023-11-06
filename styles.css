@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+    color:white;
+}
+
+.artwork {
+    height:405px;
+    width:600px;
+    margin-bottom:25px;
+    position:relative;
+}
+
+.artwork img {
+    height: 405px;
+    width:325px;
+}
+
+.div-text {
+    height:203px;
+    width:163px;
+    float:right;
+}
